@@ -4,7 +4,7 @@
       "pattern": "jenkins-examples/pipeline-examples/resources/",
       "target": "apt-internal",
       "regexp": "true",
-      "exclusions": [".*.deb"]
+      "exclusions": [".*.zip, Dockerfile"]
     }
   ]
 }
