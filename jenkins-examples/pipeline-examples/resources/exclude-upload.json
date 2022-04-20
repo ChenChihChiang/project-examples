@@ -2,7 +2,7 @@
   "files": [
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/",
-      "target": "apt-internal/pool/main/f/freeswitch",
+      "target": "apt-internal",
       "regexp": "true",
       "exclusions": [".*.deb"]
     }
