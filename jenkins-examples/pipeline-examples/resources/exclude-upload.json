@@ -2,7 +2,7 @@
   "files": [
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/",
-      "target": "apt-internal/pool/main/f/freeswitch",
+      "target": "apt-internal/pool/main/f/freeswitch/cantor_20.12.1-5_amd64.deb",
       "regexp": "true",
       "exclusions": [".*.zip", "jenkins-examples/pipeline-examples/resources/props.*", ".*./Dockerfile", ".*.json"]
     }
